@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  width: 100vw;
+  height: 100vh;
+ 
+}
+.para{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+ 
+}
+p{
+  width: 60vw;
+
+}
+.p1{
+  width: 70vw;
+  display: flex;
+  justify-content: center;
+}
+.para h1{
+  color: black;
+}
